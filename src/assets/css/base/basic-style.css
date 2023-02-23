@@ -8,6 +8,6 @@
   }
 
   body {
-    @apply bg-slate-50 font-sans text-sm leading-5 text-slate-700 antialiased [text-rendering:optimizeLegibility] dark:bg-slate-900 dark:text-slate-200 dark:[color-scheme:dark];
+    @apply bg-white font-sans text-sm leading-5 text-slate-700 antialiased [text-rendering:optimizeLegibility] dark:bg-slate-900 dark:text-slate-200 dark:[color-scheme:dark];
   }
 }
