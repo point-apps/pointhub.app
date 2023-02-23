@@ -132,7 +132,9 @@
               <p>
                 If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We
                 may collect Personal data that is already associated with Your Third-Party Social Media Service's
-                account, such as Your name, Your email address.
+                account such as Your name, Your email address for help you Login faster in Our app. And We use your
+                Google Drive account to store Your uploaded photo, so You will responsible with Your photos because We
+                don't store in our storage
               </p>
             </div>
           </div>
