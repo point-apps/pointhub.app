@@ -1,0 +1,6 @@
+@layer base {
+  :root {
+    @apply [--sidebar-shortcut-width:4.5rem]
+      [--sidebar-panel-width:15rem];
+  }
+}
