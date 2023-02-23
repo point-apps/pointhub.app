@@ -2,15 +2,17 @@
   <app-preloader class="print:hidden"></app-preloader>
 
   <!-- Page Wrapper -->
-  <div class="h-100vh flex flex-col dark:bg-slate-900 max-w-7xl mx-auto">
-    <div class="flex grow">
-      <app-sidebar class="print:hidden"></app-sidebar>
-      <app-header class="print:hidden"></app-header>
-      <main class="main-content">
-        <RouterView />
-      </main>
+  <div class="bg-white dark:bg-slate-900">
+    <div class="h-100vh flex flex-col max-w-7xl mx-auto">
+      <div class="flex grow">
+        <app-sidebar class="print:hidden"></app-sidebar>
+        <app-header class="print:hidden"></app-header>
+        <main class="main-content">
+          <RouterView />
+        </main>
+      </div>
+      <app-footer class="print:hidden"></app-footer>
     </div>
-    <app-footer class="print:hidden"></app-footer>
   </div>
 </template>
 
